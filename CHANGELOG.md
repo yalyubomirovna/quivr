@@ -1,5 +1,18 @@
 # Changelog
 
+## 0.0.316 (2024-09-19)
+
+## What's Changed
+* fix(core): enforce langchain <0.3 for pydantic v1 by @StanGirard in https://github.com/QuivrHQ/quivr/pull/3217
+* chore(main): release core 0.0.16 by @StanGirard in https://github.com/QuivrHQ/quivr/pull/3218
+* feat(assistants): mock api by @StanGirard in https://github.com/QuivrHQ/quivr/pull/3195
+* chore(examples): fix chainlit example  by @StanGirard in https://github.com/QuivrHQ/quivr/pull/3223
+* feat(integration): Notion by @chloedia in https://github.com/QuivrHQ/quivr/pull/3173
+* fix(migration): order migrations by @StanGirard in https://github.com/QuivrHQ/quivr/pull/3231
+
+
+**Full Changelog**: https://github.com/QuivrHQ/quivr/compare/v0.0.315...v0.0.316
+
 ## 0.0.315 (2024-09-17)
 
 ## What's Changed
